@@ -1,4 +1,4 @@
-# bitcask-cli
+# bitcask
 Cli tool to dump bitcask content, now able to search for specific keys in vhosts
 
 # Usage
